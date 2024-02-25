@@ -26,5 +26,4 @@ main () {
   } else {
     print("Not Divisible");
   }
-
 }
